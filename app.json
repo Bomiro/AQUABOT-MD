@@ -12,6 +12,21 @@
             "description": "",
             "required": true
              },
+            "NO_ONLINE": {
+            "description": "",
+            "required": true,
+             "value": "false"    
+             },
+            "ANTI_BOT": {
+            "description": "",
+            "value": "false" ,    
+            "required": true
+             },
+            "ONLY_GROUP": {
+            "description": "",
+            "value": "false" ,    
+            "required": true
+             },
              "REMOVE_BG_API_KEY": {
             "description": "",
             "required": true
